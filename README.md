@@ -1,5 +1,5 @@
 ### Hi there, I am msnh2012⚡.
-### A robot engineer of [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn/)
+- A robot engineer of [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn/)
 ![Msnh2012's github status](https://github-readme-stats.vercel.app/api?username=msnh2012&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ### Projects
