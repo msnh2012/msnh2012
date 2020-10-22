@@ -3,4 +3,4 @@
 
 ### Author of Msnhnet
 
-<img src="https://github.com/msnh2012/Msnhnet/blob/master/readme_imgs/banner.jpg" width = "500" height = "200" div align=left />
+<img src="https://github.com/msnh2012/Msnhnet/blob/master/readme_imgs/banner.jpg" width = "500" height = "150" div align=left />
