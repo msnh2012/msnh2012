@@ -5,6 +5,12 @@
 ### Projects
 - [msnhnet](https://github.com/msnh2012/Msnhnet)
 - [CasiaLabeler](https://github.com/msnh2012/CasiaLabeler)
+
+### Channel
+[zhihu](https://www.zhihu.com/people/mu-shi-ning-hun-59)
+### Video Channel
+[bilibili](https://space.bilibili.com/5698637/channel/detail?cid=184438&ctype=0)
+
 ### Pics
 
 <img src="https://github.com/msnh2012/Msnhnet/blob/master/readme_imgs/banner.jpg" width = "500" height = "150" div align=left /> 
