@@ -1,7 +1,11 @@
 ### Hi there, I am msnh2012⚡.
 - A robot engineer of [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn/)
-![Msnh2012's github status](https://github-readme-stats.vercel.app/api?username=msnh2012&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
+<a href="https://github.com/msnh2012">
+<img align="left" src=(https://github-readme-stats.vercel.app/api?username=msnh2012&show_icons=true&count_private=true&hide=prs&theme=default_repocard) />
+</a>
+<a href="https://github.com/msnh2012">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnh2012&hide=html" />
+</a>
 ### Projects
 - [msnhnet](https://github.com/msnh2012/Msnhnet)
 - [CasiaLabeler](https://github.com/msnh2012/CasiaLabeler)
