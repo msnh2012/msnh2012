@@ -1,7 +1,7 @@
 ### Hi there, I am msnh2012⚡.
 - A robot engineer of [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn/)
 <a href="https://github.com/msnh2012">
-<img align="left" src=(https://github-readme-stats.vercel.app/api?username=msnh2012&show_icons=true&count_private=true&hide=prs&theme=default_repocard) />
+<img align="left" src=https://github-readme-stats.vercel.app/api?username=msnh2012&show_icons=true&count_private=true&hide=prs&theme=default_repocard />
 </a>
 <a href="https://github.com/msnh2012">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnh2012&hide=html" />
