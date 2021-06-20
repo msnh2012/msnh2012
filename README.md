@@ -10,8 +10,11 @@
 
 
 ### Projects
-- [msnhnet](https://github.com/msnh2012/Msnhnet)
-- [CasiaLabeler](https://github.com/msnh2012/CasiaLabeler)
+[![msnhnet](https://github-readme-stats.vercel.app/api/pin?username=msnh2012&repo=Msnhnet&theme=default_repocard)](https://github.com/msnh2012/Msnhnet)
+  
+[![CasiaLabeler](https://github-readme-stats.vercel.app/api/pin?username=msnh2012&repo=CasiaLabeler&theme=default_repocard)](https://github.com/msnh2012/CasiaLabeler)
+  
+[![numerical-optimizaiton](https://github-readme-stats.vercel.app/api/pin?username=msnh2012&repo=numerical-optimizaiton&theme=default_repocard)](https://github.com/msnh2012/numerical-optimizaiton)
 
 ### Channel
 [zhihu](https://www.zhihu.com/people/mu-shi-ning-hun-59)
