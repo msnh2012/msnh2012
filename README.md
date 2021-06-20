@@ -5,9 +5,9 @@
 <a/>
   
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnh2012&hide=html" />
+<img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnh2012&hide=html" />
 <a/>
-<br/>
+
 
 ### Projects
 - [msnhnet](https://github.com/msnh2012/Msnhnet)
